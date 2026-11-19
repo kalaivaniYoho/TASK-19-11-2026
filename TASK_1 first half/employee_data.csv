@@ -1,0 +1,16 @@
+employee_id,name,department,age,salary,city,joining_date
+101,Arun,IT,25,35000,Chennai,2024-01-10
+102,Priya,HR,28,40000,Mumbai,2023-05-15
+103,Ravi,IT,,45000,chennai,2022-03-20
+104,Meena,Sales,30,,Delhi,2023-08-12
+105,Kumar,HR,35,50000,Mumbai,2021-06-01
+106,Divya,Sales,29,250000,Delhi,2024-02-18
+107,Anu,IT,27,42000, Chennai ,2023-11-05
+108,Rahul,Finance,32,55000,Bangalore,2022-07-14
+109,Sneha,HR,26,38000,mumbai,2024-04-10
+110,Vijay,Sales,31,48000,Hyderabad,2021-09-22
+111,Kavya,IT,24,36000,Chennai,2024-06-15
+112,Manoj,Finance,,60000,Bangalore,2020-12-01
+113,Deepa,Sales,33,52000,Delhi,2022-10-08
+114,Surya,IT,29,,Hyderabad,2023-03-19
+114,Surya,IT,29,,Hyderabad,2023-03-19

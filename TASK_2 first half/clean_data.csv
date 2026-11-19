@@ -1,0 +1,15 @@
+employee_id,name,department,age,salary,city,joining_date,salary_outlier
+101,Arun,It,25.0,35000.0,Chennai,2024-01-10,False
+102,Priya,Hr,28.0,40000.0,Mumbai,2023-05-15,False
+103,Ravi,It,29.0,45000.0,Chennai,2022-03-20,False
+104,Meena,Sales,30.0,46500.0,Delhi,2023-08-12,False
+105,Kumar,Hr,35.0,50000.0,Mumbai,2021-06-01,False
+106,Divya,Sales,29.0,250000.0,Delhi,2024-02-18,True
+107,Anu,It,27.0,42000.0,Chennai,2023-11-05,False
+108,Rahul,Finance,32.0,55000.0,Bangalore,2022-07-14,False
+109,Sneha,Hr,26.0,38000.0,Mumbai,2024-04-10,False
+110,Vijay,Sales,31.0,48000.0,Hyderabad,2021-09-22,False
+111,Kavya,It,24.0,36000.0,Chennai,2024-06-15,False
+112,Manoj,Finance,29.0,60000.0,Bangalore,2020-12-01,False
+113,Deepa,Sales,33.0,52000.0,Delhi,2022-10-08,False
+114,Surya,It,29.0,46500.0,Hyderabad,2023-03-19,False
